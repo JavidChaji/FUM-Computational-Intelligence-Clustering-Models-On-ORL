@@ -26,9 +26,9 @@ FUM Computational Intelligence Clustering Models On ORL
 [contributors-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-Clustering-Models-On-ORL/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computational-Intelligence-Clustering-Models-On-ORL.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-Clustering-Models-On-ORL/network/members
 
 
 <!-- Stars -->
